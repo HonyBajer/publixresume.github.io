@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+        <meta charset="utf-8">
+        <title>My Publix Resume</title>
+        <style>
+        .my-info {
+        fontwieght: bold;
+        }
+        </style>
+  
+    <body>
+    
+    <p class="my-info">
+    Evan Bredemeyer<br>
+7005 W 17 Court<br>
+(305) 979-2862<br>
+evan.pep04@gmail.com<br>
+    </p>
+    
+    </body>
+</html>
